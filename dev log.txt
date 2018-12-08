@@ -1,0 +1,4 @@
+07 DEC 18: Wrote program architecture, started development of master program,
+	   developed functions for Basics, as well as pt-line distance function.
+	   Wrote all area calculations and the display page for triangle area
+	   formulas. Started development info page, changelog, and request pages.
